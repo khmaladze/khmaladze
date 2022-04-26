@@ -11,8 +11,9 @@
 <a target="_blank" href="https://www.linkedin.com/in/khmaladze-g/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khmaladze-g/" height="30" width="40" /></a>
 </p>
 
+portfolio: https://khmaladze.netlify.app/ 
 
-
+latest project: https://justsimpleapp.herokuapp.com
 <!---
 khmaladze/khmaladze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
