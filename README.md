@@ -2,13 +2,13 @@
 <h3 align="center">Full Stack Developer from Canada </h3>
 
 
-- 🔭 I’m currently working on **my projects**
+- 🔭 I’m currently working on **startup project**
 
 - 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [portfolio](portfolio)
 
-- 📫 How to reach me **linkedin**
+- 📫 How to reach me **linkedin** https://www.linkedin.com/in/khmaladzegiorgi/
 
 
 <h3 align="left">Languages and Tools:</h3>
