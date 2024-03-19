@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [portfolio](portfolio)
+- 👨‍💻 All of my projects are available at https://khmaladze.netlify.app/
 
 - 📫 How to reach me **linkedin** https://www.linkedin.com/in/khmaladzegiorgi/
 
