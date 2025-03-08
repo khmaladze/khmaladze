@@ -82,8 +82,8 @@
 
 Here are some of the projects I’ve worked on:
 
-- **[Personal website](https://khmaladze.netlify.app/)** - 
-- **[portfolio project 1](https://justoldsimpleapp.onrender.com/)** -
+- **[Personal website](https://khmaladze.netlify.app/)** 
+- **[portfolio project 1](https://justoldsimpleapp.onrender.com/)** 
 
 ## 📬 Contact Me
 
