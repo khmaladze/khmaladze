@@ -90,3 +90,7 @@ Here are some of the projects I’ve worked on:
 If you have any questions, or if you'd like to collaborate, feel free to reach out via my contact form on my website, or connect with me on [LinkedIn](https://www.linkedin.com/in/khmaladzegiorgi/).
 
 Thank you for visiting! 🌟
+
+🔒 **Archived Projects**  
+This profile is currently **inactive** and is intended solely for viewing old projects. There are no planned or new projects on this profile at the moment. The repositories here are outdated and are maintained for archival purposes only. Please note that old projects are no longer actively worked on.
+
