@@ -78,12 +78,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
-
-Here are some of the projects I’ve worked on:
-
-- **[Personal website](https://khmaladze.netlify.app/)** 
-- **[portfolio project 1](https://justoldsimpleapp.onrender.com/)** 
 
 🔒 **Archived Projects**  
 This profile is currently intended solely for viewing old projects. There are no planned or new projects on this profile at the moment. The repositories here are outdated and are maintained for archival purposes only. Please note that old projects are no longer actively worked on.
